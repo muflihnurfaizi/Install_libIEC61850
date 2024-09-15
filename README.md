@@ -19,7 +19,7 @@ How to install pylibIEC61850 in raspberry pi 4, this tutorial based on [Jens Nie
    ```bash
    sudo make install
    ```
-7. Move `libiec61850.so.1.5.2` from `/usr/local/lib` to `/lib`
+7. Move `libiec61850.so.1.5.1` from `/usr/local/lib` to `/lib`
 8. Try to import the library:
    '''python
    import iec61850
